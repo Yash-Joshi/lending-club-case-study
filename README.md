@@ -1,2 +1,2 @@
-# lending-club-case-study
+# Lending-Club-Case-Study
 This repository is created, to showcase how lending works incase of people who are characterised in different class of borrowers.
