@@ -48,3 +48,12 @@ we have used the loan data-set with its dictionary to understand and derive to o
 
 
 ## Conclusions
+Following are the parameters to be considered while giving the loans to avoid the Losses to Lending Clubs
+ * Verification Status
+ * Purpose of the loan
+ * Borrower’s Employee experience
+ * Borrowers' current resident status
+ * Interest Rate
+ * Borrowers with High DTI value
+
+
